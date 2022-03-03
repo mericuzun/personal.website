@@ -1,0 +1,180 @@
+.top-container {
+  padding-top: 80px;
+  position: relative;
+  background-color: #242424
+}
+
+.mid-container {
+  background-color: #1B1B1B;
+}
+
+.bot-container {
+  background-color: #171717;
+  padding-top: 10px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+}
+
+hr {
+  border-style: dotted none none;
+  border-top-color: #586773;
+  border-width: 5px;
+  height: 2px;
+  width: 5%;
+}
+
+
+
+.s-r1 {
+  margin-bottom: 200px;
+}
+
+.s-r2 {
+  margin-bottom: 200px;
+}
+
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  color: white;
+  font-family: 'Dancing Script', cursive;
+  font-size: 4.7rem;
+}
+
+.headh2 {
+  font-size: 1.5rem;
+  font-weight: normal;
+  color: white;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.skill-p1 {
+  text-align: left;
+}
+
+.skill-p2 {
+  text-align: left;
+}
+
+.gif-h3 {
+  text-align: left;
+}
+
+.bottom-paragraph {
+  margin-bottom: 0;
+  font-size: 80%;
+  padding-bottom: 10px;
+}
+
+
+
+
+.top-cloud {
+  position: absolute;
+  top: 60px;
+  right: 330px;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.mountain {
+  padding-top: 10px;
+}
+
+.python-gif {
+  width: 25%;
+  float: left;
+}
+
+.css-gif {
+  width: 25%;
+  float: right;
+}
+
+.insta-png {
+  width: 40px;
+  height: 40px;
+}
+.twitter-png {
+  width: 40px;
+  height: 40px;
+}
+
+
+.th-instagram {
+  padding-right: 10px;
+}
+.th-twitter {
+  padding-left: 10px;
+}
+
+.links-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.link-texts {
+  margin-top: 0;
+  font-size: 0.8rem;
+}
+
+
+
+
+.tobewhite {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
+.btn-border-underline {
+  margin-bottom: 20px;
+  border: 0;
+  padding: 0;
+  border-radius: 8px;
+}
+
+
+.btn {
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 0;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: #586773;
+  border-radius: 8px;
+}
+
+.btn:hover {
+  background-color: #B8B8B8;
+  color: black;
+}
